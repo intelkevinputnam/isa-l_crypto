@@ -25,3 +25,4 @@ libtool
 isa-l_crypto.h
 /libisal_crypto.la
 libisal_crypto.pc
+generated_doc
